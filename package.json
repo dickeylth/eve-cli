@@ -1,0 +1,26 @@
+{
+  "name": "eve-cli",
+  "version": "0.1.0",
+  "description": "Front-End Dev Tool & Env For trip.taobao.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "test index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dickeylth/eve-cli.git"
+  },
+  "keywords": [
+    "[\"yeoman-generator\"",
+    "\"front-end\"",
+    "\"dev",
+    "env\"",
+    "\"tool\"]"
+  ],
+  "author": "弘树",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickeylth/eve-cli/issues"
+  },
+  "homepage": "https://github.com/dickeylth/eve-cli"
+}
